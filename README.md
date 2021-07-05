@@ -25,4 +25,3 @@ resource "aws_instance" "app_server" {
     Name = var.instance_name
   }
 }
-![image](https://user-images.githubusercontent.com/52381359/124462570-83bf8180-dd9a-11eb-9910-08645ed86569.png)
